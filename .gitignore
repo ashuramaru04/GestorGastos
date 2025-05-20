@@ -1,0 +1,20 @@
+# Archivos de compilación Java
+*.class
+
+# Directorios de compilación
+/bin/
+/build/
+/out/
+
+# Archivos de configuración del entorno
+*.log
+*.iml
+*.swp
+*.DS_Store
+
+# Configuración de IDEs
+.idea/
+.vscode/
+
+# Archivos del sistema
+Thumbs.db
